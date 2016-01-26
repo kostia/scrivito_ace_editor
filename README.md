@@ -63,7 +63,7 @@ Finally, we load the available modes and the available themes in
 ```javascript
 //= require ace/mode-ruby
 //= require ace/mode-javascript
-//= require ace/theme-solarized_light.js
+//= require ace/theme-solarized_light
 //= require ace/theme-monokai
 ```
 
